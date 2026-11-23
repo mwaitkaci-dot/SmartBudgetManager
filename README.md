@@ -17,5 +17,3 @@ The workbook contains three worksheets:
 - Transactions: Allows users to enter income and expenses.
 - Categories: Contains predefined expense categories such as Food, Transport, Rent, Health and Education.
 
-## Requirements
-Microsoft Excel 2016 or later, Microsoft 365, or a compatible spreadsheet application.
